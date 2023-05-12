@@ -219,7 +219,7 @@ def build_model(seq_len: int,
 
 
 def main():
-    fileRoot = os.path.join("/opt", "data", "Oxford Inertial Tracking Dataset")
+    fileRoot = os.path.join("/opt", "data", "Oxford_Inertial_Tracking_Dataset")
 
     # print our column names that we got from the top level description
     vicon_column_names: typing.List[str] = "Time Header translation.x translation.y translation.z " \

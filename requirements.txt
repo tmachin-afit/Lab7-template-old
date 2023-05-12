@@ -1,6 +1,6 @@
 # make sure there were installed by the base
-numpy
-tensorflow-gpu
+# numpy
+# tensorflow-gpu
 
 sklearn
 pandas
